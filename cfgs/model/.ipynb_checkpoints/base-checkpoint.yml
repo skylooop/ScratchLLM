@@ -1,0 +1,2 @@
+embedding_dim: 256
+headdim: 64
